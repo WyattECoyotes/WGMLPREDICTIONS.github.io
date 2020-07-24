@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Machine Learning Projects by Wyatt Greenberg
 
 You can use the [editor on GitHub](https://github.com/WyattECoyotes/WGMLPREDICTIONS.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
